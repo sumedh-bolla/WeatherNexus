@@ -1,5 +1,5 @@
 
-# WeatherPro
+# WeatherNexus
 
 A lightweight weather-forecasting application (desktop/console/web) built by Himesh-2007, providing real-time weather data and forecasts for user-specified locations.
 
@@ -96,7 +96,3 @@ export WEATHER_API_KEY=YOUR_API_KEY_HERE
 * [ ] Add historical weather data visualization
 * [ ] Add integration with your device’s location (GPS)
 
-## 📬 Contact
-
-* Created by Himesh-2007
-* GitHub: [https://github.com/Himesh-2007](https://github.com/Himesh-2007)
