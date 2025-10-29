@@ -1,7 +1,7 @@
 
 # WeatherNexus
 
-A lightweight weather-forecasting application (desktop/console/web) built by Himesh-2007, providing real-time weather data and forecasts for user-specified locations.
+A lightweight weather-forecasting application, providing real-time weather data and forecasts for user-specified locations.
 
 ## 📋 Table of Contents
 - [Features](#features)  
@@ -12,7 +12,6 @@ A lightweight weather-forecasting application (desktop/console/web) built by Him
   - [Usage](#usage)  
 - [Configuration](#configuration)  
 - [Roadmap](#roadmap)   
-- [Contact](#contact)
 
 ## 🌤 Features
 - Fetch current weather conditions (temperature, humidity, wind, etc.)  
